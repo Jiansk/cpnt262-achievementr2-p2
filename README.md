@@ -2,7 +2,7 @@
 ## Achievement-2--- Comma-separated list of words
 
 - author: Jian Villanueva
-- github pages link:
+- github pages link:https://jiansk.github.io/cpnt262-achievementr2-p2/
 
 ## Attributions:
 - website-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
